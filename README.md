@@ -1,10 +1,6 @@
 # GameLibrary
 A web application built with Django, MySQL, Python, and HTML that allows users to manage a game collection using CRUD (Create, Read, Update, Delete) operations.
 
-## GameLibrary Web Application
-
-This is a simple **MySQL** and **Django** web application that allows you to manage a collection of games. You can add, view, edit, and delete games from the database.
-
 ---
 
 ### Features:
